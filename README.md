@@ -11,6 +11,7 @@ Este repositorio contiene el resultado de un proyecto de maquetación de una Lan
 
 ## 🚀 Link al Deploy Unificado
 Puedes visualizar el resultado final de los proyectos desplegados en el siguiente enlace:
+
 🔗 **[https://pfo-2-frontend.vercel.app/](https://pfo-2-frontend.vercel.app/)**
 
 ## 🤖 Agentes IA utilizados
@@ -81,21 +82,21 @@ Vista general de la interfaz unificada:
 ### 🤖 Agente 1: Codex
 
 #### 💻 Vista Escritorio
-* **Imagen Estática:**
+
   ![Agente 1 Full PNG](./img/agente1_codex/agente1_full.png)
-* **Navegación Animada:**
+
   ![Agente 1 Full GIF](./img/agente1_codex/agente1_full_gif.gif)
 
 #### 📱 Vista Tablet
-* **Imagen Estática:**
+
   ![Agente 1 Tablet PNG](./img/agente1_codex/agente1_tablet.png)
-* **Navegación Animada:**
+
   ![Agente 1 Tablet GIF](./img/agente1_codex/agente1_tablet_gif.gif)
 
 #### 📱 Vista Móvil
-* **Imagen Estática:**
+
   ![Agente 1 Mobile PNG](./img/agente1_codex/agente1_mobile.png)
-* **Navegación Animada:**
+
   ![Agente 1 Mobile GIF](./img/agente1_codex/agente1_mobile_gif.gif)
 
 ---
@@ -103,21 +104,20 @@ Vista general de la interfaz unificada:
 ### 🤖 Agente 2: Claude
 
 #### 💻 Vista Escritorio
-* **Imagen Estática:**
+
   ![Agente 2 Full PNG](./img/agente2_claude/agente2_full.png)
-* **Navegación Animada:**
+
   ![Agente 2 Full GIF](./img/agente2_claude/agente2_full_gif.gif)
 
 #### 📱 Vista Tablet
-* **Imagen Estática:**
   ![Agente 2 Tablet PNG](./img/agente2_claude/agente2_tablet.png)
-* **Navegación Animada:**
+
   ![Agente 2 Tablet GIF](./img/agente2_claude/agente2_tablet_gif.gif)
 
 #### 📱 Vista Móvil
-* **Imagen Estática:**
+
   ![Agente 2 Mobile PNG](./img/agente2_claude/agente2_mobile.png)
-* **Navegación Animada:**
+
   ![Agente 2 Mobile GIF](./img/agente2_claude/agente2_mobile_gif.gif)
 
 ---
